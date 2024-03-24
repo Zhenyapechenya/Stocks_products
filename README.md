@@ -42,3 +42,5 @@ python manage.py runserver
 ```bash
 requests-examples.http.
 ```
+## Задачу выполнила
+Евгения Псарева `epsareva77@gmail.com`
