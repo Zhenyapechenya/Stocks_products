@@ -32,6 +32,12 @@ Content-Type: application/json
 pip install -r requirements.txt
 ```
 
+Вам необходимо будет создать базу в postgres и прогнать миграции:
+
+```base
+manage.py migrate
+```
+
 Выполнить команду:
 
 ```bash
@@ -42,5 +48,6 @@ python manage.py runserver
 ```bash
 requests-examples.http.
 ```
+
 ## Задачу выполнила
 Евгения Псарева `epsareva77@gmail.com`
